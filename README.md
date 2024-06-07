@@ -1,10 +1,10 @@
-## Melianti_Pang Portfolio
-###Data Analyst Portfolio
+# Melianti_Pang Portfolio
+### Data Analyst Portfolio
 
-## Project 1: Megaline Telecomunication: "Surf vs Ultimate", Which one profitable?
-“Megaline” Telecommunications has two prepaid plans “Surf” and “Ultimate”.  
-Advertising department wants to know which prepaid plans give more profit so they can make appropriate advertising budget.
+## Project 1: Megaline Telecomunication: "Surf vs Ultimate", Which one more profitable?
+
 <ul>
+  <li>Business Case:“Megaline” Telecommunications has two prepaid plans “Surf” and “Ultimate”. Advertising department wants to know which prepaid plans give more profit so they can make appropriate advertising budget</li>
   <li>Data preparation (check missing value, duplicate, enhance data)</li>
   <li>Calculate monthly income for each plan, monthly average income for each user. monthly average usage for each service type(Call, message, internet)</li>
   <li>Exploratory data analysis</li>
