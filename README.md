@@ -1,7 +1,7 @@
 # Melianti_Pang Portfolio
 ### Data Analyst Portfolio
 
-##[<Project 1: Megaline Telecomunication: "Surf vs Ultimate", Which one more profitable](https://github.com/melianti/project/commit/90004f20ad6a69e3a37c5742b66f583c1f66b009)
+##[<Project 1: Megaline Telecomunication: "Surf vs Ultimate", Which one more profitable](https://github.com/melianti/project/blob/main/Sprint4_Megaline.ipynb)
 
 <ul>
   <li>Business Case:“Megaline” Telecommunications has two prepaid plans “Surf” and “Ultimate”. Advertising department wants to know which prepaid plans give more profit so they can make appropriate advertising budget</li>
