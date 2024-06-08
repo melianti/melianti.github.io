@@ -12,5 +12,7 @@
   <li>Hypothesis Test1: “Average income from Ultimate and Surf users are different</li>
   <li>Hypothesis Test2: “Average income of users in NY-NJ areas different from users from others area</li>
 </ul>
-[](/blob/main/images2/Sprint4_Coosurf.png)
+
+![Correlation table Surf Plan](/blob/main/images2/Sprint4_Coosurf.png)
+
 
