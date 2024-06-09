@@ -1,4 +1,4 @@
-# Melianti_Pang Portfolio
+# Melianti's Portfolio
 ### Data Analyst Portfolio
 
 ##[<Project 1: Megaline Telecomunication: "Surf vs Ultimate", Which one more profitable](https://github.com/melianti/project/blob/main/Sprint4_Megaline.ipynb)
