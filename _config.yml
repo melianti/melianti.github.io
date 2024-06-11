@@ -1,5 +1,5 @@
 title: Melianti Pang
-titile image: /images2/PasFoto_MP.jpg
-#description: text below image
-show_downloads: true
+logo: /images2/PasFoto_MP.jpg
+description: Melianti's Project Portfolio
+show_downloads: False
 theme: jekyll-theme-minimal
