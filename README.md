@@ -19,18 +19,17 @@
 
 <ul>
 <li>Prioritizing Hypotheses work based on ICE (Impact, Confidence & Effort)  & RICE(Reach, Impact, Confidence, Effort) framework/li>	
-<li>A/B testing preparation & analysis</li>
-  <ul>
-  <li>Testing preparation</li>
-  </ul>
-      <ul>
-      <li>Analyze Cumulative income </li>
-      <li>Analyze Average cumulative income</li>
-      <li>Analyze Cumulative Conversion</li>
-      <li>Analyze Order Size</li>
-      <li>Analyze Order Value</li>
+<li>A/B testing preparation & analysis
+   <li>Testing preparation
+       <ul>
+        <li>Analyze Cumulative income </li>
+        <li>Analyze Average cumulative income</li>
+        <li>Analyze Cumulative Conversion</li>
+        <li>Analyze Order Size</li>
+        <li>Analyze Order Value</li>
       </ul>
-  
+   </li>
+</li>
 <li>A/B testing using Raw Data</li>
 <li>A/B testing using Filtered Data</li>
 <li>Decision based on A/B testing</li>
