@@ -15,4 +15,24 @@
 
 ![Correlation table Surf Plan](/images2/Sprint4_Coosurf.png)
 
+##[<Project 2: Online Store: Data based Business decision](https://github.com/melianti/project/blob/main/)
 
+<ul>
+<li>Prioritizing Hypotheses work based on ICE (Impact, Confidence & Effort)  & RICE(Reach, Impact, Confidence, Effort) framework/li>	
+<li>A/B testing preparation & analysis</li>
+  <li>Testing preparation</li>
+    <li>Analyze Cumulative income </li>
+    <li>Analyze Average cumulative income</li>
+    <li>Analyze Cumulative Conversion</li>
+    <li>Analyze Order Size</li>
+    <li>Analyze Order Value</li>
+  
+<li>A/B testing using Raw Data</li>
+<li>A/B testing using Filtered Data</li>
+<li>Decision based on A/B testing</li>
+    <li>Stop Testing, consider one of the group as a leader</li>
+    <li>Stop testing there is no difference between the two groups</li>
+    <li>Continue the testing</li>
+
+  
+</ul>
