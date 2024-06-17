@@ -41,8 +41,4 @@
 </li>
 </ul>
 
-(/images2/Sprint8_Ordersize_scatterplot.png)
-
-
-
-
+![](/images2/Sprint8_Ordersize_scatterplot.png)
