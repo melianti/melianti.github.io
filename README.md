@@ -42,7 +42,7 @@
   
 </ul>
 
-<ul>
-![](/images2/Sprint8_Ordersize_scatterplot.png)
-</ul>
+
+!(/images2/Sprint8_Ordersize_scatterplot.png)
+
 
