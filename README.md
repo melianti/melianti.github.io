@@ -43,6 +43,6 @@
 </ul>
 
 ![Order Size ScatterPlot](/images2/Sprint8_Ordersize_scatterplot.png)
-<li>Order Size ScatterPlot </li>li>
+<li>Order Size ScatterPlot </li>
 
 
