@@ -15,7 +15,7 @@
 
 ![Correlation table Surf Plan](/images2/Sprint4_Coosurf.png)
 
-##[<Project 2: Online Store Hypothesis & A/B Testing: Data based Business decision](https://github.com/melianti/project/blob/main/Online_store_ABTesting_Sprint8.ipynb)
+##[<Project 2: Online Store Hypothesis & A/B Testing](https://github.com/melianti/project/blob/main/Online_store_ABTesting_Sprint8.ipynb)
 
 <ul>
 <li>Prioritizing Hypotheses work based on ICE (Impact, Confidence & Effort)  & RICE(Reach, Impact, Confidence, Effort) framework/li>	
