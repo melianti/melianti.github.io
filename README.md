@@ -34,5 +34,6 @@
     <li>Stop testing there is no difference between the two groups</li>
     <li>Continue the testing</li>
 
-  
-</ul>
+ </ul>
+
+![Order Size Scatter Plot](/images2/Sprint8_Ordersize_scatterplot.png)
