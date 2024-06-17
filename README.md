@@ -39,7 +39,10 @@
       <li>Continue the testing</li>
     </ul>
 </li>
+  
 </ul>
 
-
+<ul>
 ![](/images2/Sprint8_Ordersize_scatterplot.png)
+</ul>
+
