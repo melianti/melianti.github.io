@@ -33,7 +33,6 @@
     <li>Stop Testing, consider one of the group as a leader</li>
     <li>Stop testing there is no difference between the two groups</li>
     <li>Continue the testing</li>
-
  </ul>
 
-![Order Size Scatter Plot](/images2/Sprint8_Ordersize_scatterplot.png)
+![Order_Size_ScatterPlot](/images2/Sprint8_Ordersize_scatterplot.png)
