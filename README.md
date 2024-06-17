@@ -42,4 +42,5 @@
   
 </ul>
 
-![Order_Size_ScatterPlot](/images2/Sprint8_Ordersize_scatterplot.png)
+![Order Size ScatterPlot](/images2/Sprint8_Ordersize_scatterplot.png)
+
