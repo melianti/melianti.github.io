@@ -32,10 +32,14 @@
 </li>
 <li>A/B testing using Raw Data</li>
 <li>A/B testing using Filtered Data</li>
-<li>Decision based on A/B testing</li>
-    <li>Stop Testing, consider one of the group as a leader</li>
-    <li>Stop testing there is no difference between the two groups</li>
-    <li>Continue the testing</li>
- </ul>
+<li>Decision based on A/B testing
+    <ul>
+      <li>Stop Testing, consider one of the group as a leader</li>
+      <li>Stop testing there is no difference between the two groups</li>
+      <li>Continue the testing</li>
+    </ul>
+</li>
+  
+</ul>
 
 ![Order_Size_ScatterPlot](/images2/Sprint8_Ordersize_scatterplot.png)
