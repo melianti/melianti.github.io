@@ -15,7 +15,7 @@
 
 ![Correlation table Surf Plan](/images2/Sprint4_Coosurf.png)
 
-##[<Project 2: Online Store: Data based Business decision](https://github.com/melianti/project/blob/main/images2/Sprint8_Ordersize_scatterplot.png)
+##[<Project 2: Online Store: Data based Business decision](https://github.com/melianti/project/blob/main/Sprint8_Ordersize_scatterplot.png)
 
 <ul>
 <li>Prioritizing Hypotheses work based on ICE (Impact, Confidence & Effort)  & RICE(Reach, Impact, Confidence, Effort) framework/li>	
